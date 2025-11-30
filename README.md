@@ -1,6 +1,6 @@
 
 
-````markdown
+
 <h1 align="center">🗓️ Planner App</h1>
 
 <p align="center">
